@@ -40,12 +40,10 @@ I build data pipelines, analytics dashboards, and ML solutions that turn raw dat
   ## How to reach me?
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/fadhlan-junaidi)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:fadhlanjunaidi85@gmail.com)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogueSHD&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogueSHD&layout=compact&theme=tokyonight)
 
