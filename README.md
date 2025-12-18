@@ -43,5 +43,10 @@ I build data pipelines, analytics dashboards, and ML solutions that turn raw dat
 - GitHub: https://github.com/RogueSHD
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogueSHD&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogueSHD&layout=compact&theme=tokyonight)
+
+
 Open to discussions on data analytics, data engineering, and applied machine learning.
 
