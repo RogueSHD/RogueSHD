@@ -39,8 +39,10 @@ I build data pipelines, analytics dashboards, and ML solutions that turn raw dat
 
   ## How to reach me?
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- GitHub: https://github.com/RogueSHD
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogueSHD&show_icons=true&theme=tokyonight)
